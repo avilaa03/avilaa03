@@ -1,7 +1,7 @@
 # avilaa03
 Olá! Me chamo Lucas de Ávila e sou um Desenvolvedor de Software!
 
-Hi, i'm Lucas de Ávila and I'm a Software Engineer!
+Hi, I'm Lucas de Ávila and I'm a Software Engineer!
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasdeavila/)
